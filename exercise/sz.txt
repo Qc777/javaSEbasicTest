@@ -1,0 +1,6 @@
+public class sz{
+    public static void main (String[] args){
+	    int age = 50;
+		sYetm.out.print(age);
+    }
+}
